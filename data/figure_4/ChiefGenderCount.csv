@@ -1,0 +1,1014 @@
+Year	Field	gender	Count
+1919	Biology	male	1
+1920	Biology	male	1
+1921	Biology	male	1
+1922	Biology	male	1
+1923	Biology	male	1
+1924	Biology	male	1
+1925	Biology	male	1
+1949	Medicine	male	1
+1954	Physics	male	1
+1955	Physics	male	1
+1956	Medicine	male	2
+1956	Physics	male	1
+1957	Medicine	male	1
+1957	Physics	male	4
+1958	Medicine	male	3
+1958	Physics	male	3
+1959	Biology	male	1
+1959	Chemistry	male	1
+1959	Medicine	male	4
+1959	Physics	male	4
+1960	Medicine	male	5
+1960	Physics	male	3
+1961	Chemistry	male	1
+1961	Medicine	male	6
+1961	Physics	male	4
+1962	Chemistry	male	2
+1962	Medicine	male	5
+1962	Physics	male	2
+1963	Chemistry	male	1
+1963	Medicine	male	5
+1963	Physics	male	4
+1964	Biology	male	4
+1964	Chemistry	male	1
+1964	Medicine	male	6
+1964	Physics	male	3
+1965	Biology	male	2
+1965	Medicine	male	8
+1965	Physics	male	5
+1966	Biology	male	4
+1966	Chemistry	male	2
+1966	Medicine	male	7
+1966	Physics	male	5
+1966	Psychology	male	1
+1967	Biology	male	5
+1967	Chemistry	male	2
+1967	Geology	male	1
+1967	Medicine	male	6
+1967	Physics	male	5
+1968	Biology	male	6
+1968	Chemistry	male	2
+1968	Medicine	male	6
+1968	Physics	male	6
+1969	Biology	male	9
+1969	Chemistry	male	2
+1969	Mathematics	male	1
+1969	Medicine	male	6
+1969	Physics	male	6
+1970	Biology	male	8
+1970	Chemistry	male	3
+1970	Mathematics	male	1
+1970	Medicine	male	7
+1970	Physics	male	8
+1970	Psychology	male	1
+1971	Biology	male	12
+1971	Business	male	2
+1971	Chemistry	male	4
+1971	Computer science	male	1
+1971	Materials science	male	1
+1971	Mathematics	male	2
+1971	Medicine	female	1
+1971	Medicine	male	7
+1971	Physics	male	8
+1971	Psychology	male	1
+1972	Biology	male	9
+1972	Chemistry	male	4
+1972	Computer science	male	2
+1972	Materials science	male	2
+1972	Mathematics	male	2
+1972	Medicine	male	8
+1972	Physics	male	10
+1972	Psychology	male	1
+1973	Biology	female	1
+1973	Biology	male	16
+1973	Chemistry	male	4
+1973	Computer science	male	2
+1973	Materials science	male	4
+1973	Mathematics	male	3
+1973	Medicine	male	8
+1973	Physics	male	10
+1973	Psychology	male	1
+1974	Biology	female	1
+1974	Biology	male	20
+1974	Chemistry	male	5
+1974	Computer science	male	3
+1974	Materials science	male	2
+1974	Mathematics	male	3
+1974	Medicine	male	10
+1974	Physics	male	12
+1974	Political science	male	1
+1974	Psychology	male	2
+1975	Biology	female	1
+1975	Biology	male	18
+1975	Business	male	1
+1975	Chemistry	male	6
+1975	Computer science	male	2
+1975	Geology	male	1
+1975	Materials science	male	4
+1975	Mathematics	male	4
+1975	Medicine	male	10
+1975	Physics	male	14
+1975	Political science	male	1
+1975	Psychology	male	2
+1976	Biology	female	1
+1976	Biology	male	18
+1976	Business	male	1
+1976	Chemistry	male	6
+1976	Computer science	male	3
+1976	Economics	male	1
+1976	Geology	male	1
+1976	Materials science	male	2
+1976	Mathematics	male	4
+1976	Medicine	male	11
+1976	Physics	male	12
+1976	Political science	male	1
+1976	Psychology	male	2
+1977	Biology	female	2
+1977	Biology	male	27
+1977	Business	male	3
+1977	Chemistry	male	6
+1977	Computer science	male	3
+1977	Economics	male	1
+1977	Geology	male	1
+1977	Materials science	male	2
+1977	Mathematics	male	3
+1977	Medicine	male	11
+1977	Philosophy	male	1
+1977	Physics	male	12
+1977	Political science	male	1
+1977	Psychology	male	3
+1978	Biology	female	1
+1978	Biology	male	25
+1978	Business	male	3
+1978	Chemistry	male	5
+1978	Computer science	male	3
+1978	Economics	male	1
+1978	Geology	male	1
+1978	Materials science	male	2
+1978	Mathematics	male	3
+1978	Medicine	male	11
+1978	Philosophy	male	1
+1978	Physics	male	11
+1978	Political science	male	1
+1978	Psychology	male	5
+1979	Biology	male	22
+1979	Business	male	2
+1979	Chemistry	male	6
+1979	Computer science	female	1
+1979	Computer science	male	6
+1979	Economics	male	1
+1979	Geology	male	1
+1979	Materials science	male	2
+1979	Mathematics	male	4
+1979	Medicine	male	14
+1979	Philosophy	male	1
+1979	Physics	male	13
+1979	Political science	male	1
+1979	Psychology	male	5
+1980	Biology	male	24
+1980	Business	male	2
+1980	Chemistry	male	4
+1980	Computer science	female	1
+1980	Computer science	male	5
+1980	Economics	male	1
+1980	Geology	male	1
+1980	Materials science	male	2
+1980	Mathematics	male	5
+1980	Medicine	female	1
+1980	Medicine	male	15
+1980	Philosophy	male	1
+1980	Physics	male	15
+1980	Political science	male	1
+1980	Psychology	male	4
+1981	Biology	female	1
+1981	Biology	male	31
+1981	Business	male	2
+1981	Chemistry	male	4
+1981	Computer science	female	1
+1981	Computer science	male	8
+1981	Economics	male	1
+1981	Geology	male	1
+1981	Materials science	male	3
+1981	Mathematics	male	6
+1981	Medicine	male	18
+1981	Philosophy	male	1
+1981	Physics	male	17
+1981	Political science	male	3
+1981	Psychology	male	6
+1982	Biology	female	2
+1982	Biology	male	34
+1982	Business	male	2
+1982	Chemistry	male	4
+1982	Computer science	female	1
+1982	Computer science	male	10
+1982	Economics	male	2
+1982	Geology	male	1
+1982	Materials science	male	2
+1982	Mathematics	male	6
+1982	Medicine	male	22
+1982	Philosophy	male	1
+1982	Physics	male	15
+1982	Political science	male	3
+1982	Psychology	male	6
+1983	Biology	female	1
+1983	Biology	male	35
+1983	Business	male	1
+1983	Chemistry	male	5
+1983	Computer science	female	1
+1983	Computer science	male	21
+1983	Economics	male	2
+1983	Geology	male	1
+1983	Materials science	male	2
+1983	Mathematics	male	7
+1983	Medicine	male	23
+1983	Philosophy	male	1
+1983	Physics	male	16
+1983	Political science	male	3
+1983	Psychology	male	7
+1984	Biology	male	37
+1984	Business	male	1
+1984	Chemistry	male	6
+1984	Computer science	female	1
+1984	Computer science	male	10
+1984	Economics	male	2
+1984	Geology	male	3
+1984	Materials science	male	3
+1984	Mathematics	male	6
+1984	Medicine	male	23
+1984	Philosophy	male	1
+1984	Physics	male	19
+1984	Political science	male	3
+1984	Psychology	male	7
+1985	Biology	male	39
+1985	Business	male	1
+1985	Chemistry	male	6
+1985	Computer science	female	1
+1985	Computer science	male	13
+1985	Economics	male	3
+1985	Engineering	male	1
+1985	Geology	female	1
+1985	Geology	male	2
+1985	Materials science	male	2
+1985	Mathematics	male	8
+1985	Medicine	female	1
+1985	Medicine	male	24
+1985	Philosophy	male	1
+1985	Physics	male	23
+1985	Political science	male	3
+1985	Psychology	male	6
+1986	Biology	male	41
+1986	Business	male	1
+1986	Chemistry	male	6
+1986	Computer science	female	1
+1986	Computer science	male	8
+1986	Economics	male	5
+1986	Engineering	male	2
+1986	Geology	male	4
+1986	Materials science	male	3
+1986	Mathematics	male	8
+1986	Medicine	female	2
+1986	Medicine	male	32
+1986	Philosophy	male	1
+1986	Physics	male	27
+1986	Political science	male	3
+1986	Psychology	male	7
+1987	Biology	female	1
+1987	Biology	male	55
+1987	Business	male	1
+1987	Chemistry	male	6
+1987	Computer science	female	1
+1987	Computer science	male	13
+1987	Economics	male	3
+1987	Engineering	male	2
+1987	Geology	male	4
+1987	Materials science	male	3
+1987	Mathematics	male	8
+1987	Medicine	female	3
+1987	Medicine	male	31
+1987	Philosophy	male	1
+1987	Physics	male	28
+1987	Political science	male	3
+1987	Psychology	male	6
+1988	Biology	female	1
+1988	Biology	male	46
+1988	Business	male	1
+1988	Chemistry	male	6
+1988	Computer science	female	1
+1988	Computer science	male	16
+1988	Economics	male	3
+1988	Engineering	male	2
+1988	Geology	male	4
+1988	Materials science	male	4
+1988	Mathematics	male	11
+1988	Medicine	female	1
+1988	Medicine	male	32
+1988	Philosophy	male	1
+1988	Physics	male	29
+1988	Political science	male	3
+1988	Psychology	male	6
+1988	Sociology	male	1
+1989	Biology	female	1
+1989	Biology	male	54
+1989	Business	male	2
+1989	Chemistry	male	5
+1989	Computer science	female	1
+1989	Computer science	male	17
+1989	Economics	male	4
+1989	Engineering	male	2
+1989	Geology	male	3
+1989	Materials science	male	6
+1989	Mathematics	male	13
+1989	Medicine	female	2
+1989	Medicine	male	34
+1989	Philosophy	male	1
+1989	Physics	male	29
+1989	Political science	male	3
+1989	Psychology	male	6
+1989	Sociology	male	1
+1990	Biology	female	3
+1990	Biology	male	55
+1990	Business	male	3
+1990	Chemistry	male	6
+1990	Computer science	female	1
+1990	Computer science	male	18
+1990	Economics	male	6
+1990	Engineering	male	1
+1990	Geology	male	3
+1990	Materials science	male	4
+1990	Mathematics	male	15
+1990	Medicine	female	1
+1990	Medicine	male	33
+1990	Philosophy	male	1
+1990	Physics	male	28
+1990	Political science	male	3
+1990	Psychology	male	6
+1990	Sociology	male	1
+1991	Biology	female	1
+1991	Biology	male	59
+1991	Business	male	2
+1991	Chemistry	male	6
+1991	Computer science	female	1
+1991	Computer science	male	21
+1991	Economics	male	7
+1991	Engineering	male	1
+1991	Geology	male	3
+1991	Materials science	male	11
+1991	Mathematics	male	13
+1991	Medicine	female	3
+1991	Medicine	male	57
+1991	Philosophy	male	2
+1991	Physics	male	28
+1991	Political science	male	4
+1991	Psychology	male	7
+1991	Sociology	male	1
+1992	Biology	female	1
+1992	Biology	male	51
+1992	Business	male	2
+1992	Chemistry	male	8
+1992	Computer science	female	1
+1992	Computer science	male	21
+1992	Economics	male	7
+1992	Engineering	male	9
+1992	Geology	male	4
+1992	Materials science	male	11
+1992	Mathematics	male	16
+1992	Medicine	female	1
+1992	Medicine	male	54
+1992	Philosophy	male	1
+1992	Physics	male	30
+1992	Political science	female	1
+1992	Political science	male	6
+1992	Psychology	male	5
+1992	Sociology	female	1
+1992	Sociology	male	2
+1993	Biology	female	1
+1993	Biology	male	60
+1993	Business	male	2
+1993	Chemistry	male	6
+1993	Computer science	female	2
+1993	Computer science	male	24
+1993	Economics	male	7
+1993	Engineering	male	9
+1993	Geology	male	4
+1993	Materials science	male	12
+1993	Mathematics	male	15
+1993	Medicine	female	1
+1993	Medicine	male	56
+1993	Philosophy	male	1
+1993	Physics	female	2
+1993	Physics	male	28
+1993	Political science	male	4
+1993	Psychology	male	9
+1993	Sociology	female	1
+1993	Sociology	male	2
+1994	Biology	female	8
+1994	Biology	male	75
+1994	Business	male	2
+1994	Chemistry	male	7
+1994	Computer science	female	2
+1994	Computer science	male	23
+1994	Economics	male	6
+1994	Engineering	male	16
+1994	Geology	male	6
+1994	Materials science	male	18
+1994	Mathematics	male	14
+1994	Medicine	female	1
+1994	Medicine	male	60
+1994	Philosophy	male	1
+1994	Physics	female	2
+1994	Physics	male	36
+1994	Political science	male	5
+1994	Psychology	male	11
+1994	Sociology	female	1
+1994	Sociology	male	3
+1995	Biology	female	2
+1995	Biology	male	78
+1995	Business	male	2
+1995	Chemistry	male	16
+1995	Computer science	female	2
+1995	Computer science	male	25
+1995	Economics	male	18
+1995	Engineering	male	20
+1995	Geology	male	6
+1995	Materials science	male	14
+1995	Mathematics	male	13
+1995	Medicine	female	2
+1995	Medicine	male	64
+1995	Philosophy	male	1
+1995	Physics	female	1
+1995	Physics	male	32
+1995	Political science	male	5
+1995	Psychology	male	11
+1995	Sociology	female	1
+1995	Sociology	male	3
+1996	Biology	female	2
+1996	Biology	male	78
+1996	Business	male	2
+1996	Chemistry	male	19
+1996	Computer science	female	3
+1996	Computer science	male	31
+1996	Economics	male	13
+1996	Engineering	male	28
+1996	Geology	male	5
+1996	Materials science	male	12
+1996	Mathematics	male	17
+1996	Medicine	female	3
+1996	Medicine	male	45
+1996	Philosophy	male	1
+1996	Physics	female	1
+1996	Physics	male	37
+1996	Political science	male	6
+1996	Psychology	male	13
+1996	Sociology	female	1
+1996	Sociology	male	3
+1997	Biology	female	2
+1997	Biology	male	69
+1997	Business	male	2
+1997	Chemistry	male	16
+1997	Computer science	female	2
+1997	Computer science	male	34
+1997	Economics	male	11
+1997	Engineering	female	1
+1997	Engineering	male	21
+1997	Geology	male	4
+1997	Materials science	male	10
+1997	Mathematics	male	19
+1997	Medicine	female	5
+1997	Medicine	male	48
+1997	Philosophy	male	1
+1997	Physics	female	1
+1997	Physics	male	38
+1997	Political science	male	6
+1997	Psychology	male	12
+1997	Sociology	female	1
+1997	Sociology	male	3
+1998	Biology	female	1
+1998	Biology	male	42
+1998	Business	male	2
+1998	Chemistry	female	1
+1998	Chemistry	male	9
+1998	Computer science	female	2
+1998	Computer science	male	32
+1998	Economics	male	7
+1998	Engineering	female	1
+1998	Engineering	male	7
+1998	Geology	male	2
+1998	Materials science	male	3
+1998	Mathematics	male	15
+1998	Medicine	female	2
+1998	Medicine	male	37
+1998	Philosophy	male	1
+1998	Physics	female	1
+1998	Physics	male	26
+1998	Political science	male	6
+1998	Psychology	male	7
+1998	Sociology	female	1
+1998	Sociology	male	1
+1999	Biology	female	1
+1999	Biology	male	35
+1999	Business	male	2
+1999	Chemistry	male	4
+1999	Computer science	male	12
+1999	Economics	male	7
+1999	Engineering	female	1
+1999	Engineering	male	4
+1999	Geology	male	1
+1999	Materials science	male	2
+1999	Mathematics	male	14
+1999	Medicine	female	2
+1999	Medicine	male	36
+1999	Philosophy	male	1
+1999	Physics	male	16
+1999	Political science	male	2
+1999	Psychology	male	6
+1999	Sociology	female	1
+1999	Sociology	male	1
+2000	Biology	female	1
+2000	Biology	male	36
+2000	Business	male	2
+2000	Chemistry	male	3
+2000	Computer science	male	7
+2000	Economics	male	7
+2000	Engineering	female	1
+2000	Engineering	male	4
+2000	Geology	male	1
+2000	Materials science	male	2
+2000	Mathematics	male	9
+2000	Medicine	female	2
+2000	Medicine	male	33
+2000	Philosophy	male	1
+2000	Physics	male	16
+2000	Political science	male	1
+2000	Psychology	male	6
+2000	Sociology	female	1
+2000	Sociology	male	1
+2001	Biology	female	1
+2001	Biology	male	34
+2001	Business	male	2
+2001	Chemistry	male	3
+2001	Computer science	male	7
+2001	Economics	male	7
+2001	Engineering	female	1
+2001	Engineering	male	4
+2001	Geology	male	1
+2001	Materials science	male	2
+2001	Mathematics	male	8
+2001	Medicine	female	2
+2001	Medicine	male	29
+2001	Philosophy	male	1
+2001	Physics	male	16
+2001	Political science	male	1
+2001	Psychology	male	7
+2001	Sociology	female	1
+2001	Sociology	male	1
+2002	Biology	female	1
+2002	Biology	male	34
+2002	Business	male	2
+2002	Chemistry	male	3
+2002	Computer science	male	8
+2002	Economics	male	7
+2002	Engineering	female	1
+2002	Engineering	male	5
+2002	Geology	male	1
+2002	Materials science	male	2
+2002	Mathematics	male	9
+2002	Medicine	female	2
+2002	Medicine	male	29
+2002	Philosophy	male	1
+2002	Physics	male	16
+2002	Political science	male	1
+2002	Psychology	male	7
+2002	Sociology	female	1
+2002	Sociology	male	1
+2003	Biology	female	1
+2003	Biology	male	38
+2003	Business	male	2
+2003	Chemistry	male	3
+2003	Computer science	male	7
+2003	Economics	male	7
+2003	Engineering	female	1
+2003	Engineering	male	5
+2003	Geology	male	1
+2003	Materials science	male	2
+2003	Mathematics	male	9
+2003	Medicine	female	2
+2003	Medicine	male	31
+2003	Philosophy	male	1
+2003	Physics	male	15
+2003	Political science	male	1
+2003	Psychology	male	6
+2003	Sociology	female	1
+2003	Sociology	male	1
+2004	Biology	female	1
+2004	Biology	male	72
+2004	Business	female	1
+2004	Business	male	3
+2004	Chemistry	male	6
+2004	Computer science	male	32
+2004	Economics	female	1
+2004	Economics	male	10
+2004	Engineering	female	1
+2004	Engineering	male	6
+2004	Geology	female	3
+2004	Geology	male	9
+2004	Materials science	male	2
+2004	Mathematics	male	15
+2004	Medicine	female	4
+2004	Medicine	male	38
+2004	Philosophy	male	1
+2004	Physics	male	15
+2004	Political science	female	1
+2004	Political science	male	1
+2004	Psychology	female	1
+2004	Psychology	male	6
+2004	Sociology	female	1
+2004	Sociology	male	1
+2005	Biology	female	7
+2005	Biology	male	113
+2005	Business	male	1
+2005	Chemistry	male	10
+2005	Computer science	male	39
+2005	Economics	female	1
+2005	Economics	male	13
+2005	Engineering	female	1
+2005	Engineering	male	7
+2005	Geology	female	3
+2005	Geology	male	10
+2005	Materials science	male	4
+2005	Mathematics	male	25
+2005	Medicine	female	9
+2005	Medicine	male	70
+2005	Philosophy	male	1
+2005	Physics	male	18
+2005	Political science	female	1
+2005	Political science	male	6
+2005	Psychology	male	7
+2005	Sociology	female	1
+2005	Sociology	male	1
+2006	Biology	female	11
+2006	Biology	male	153
+2006	Business	male	1
+2006	Chemistry	female	1
+2006	Chemistry	male	15
+2006	Computer science	male	42
+2006	Economics	female	1
+2006	Economics	male	15
+2006	Engineering	female	1
+2006	Engineering	male	7
+2006	Geography	male	1
+2006	Geology	female	3
+2006	Geology	male	11
+2006	Materials science	male	7
+2006	Mathematics	male	23
+2006	Medicine	female	9
+2006	Medicine	male	88
+2006	Physics	male	25
+2006	Political science	female	1
+2006	Political science	male	7
+2006	Psychology	female	1
+2006	Psychology	male	10
+2006	Sociology	female	1
+2007	Biology	female	13
+2007	Biology	male	180
+2007	Business	male	1
+2007	Chemistry	female	2
+2007	Chemistry	male	18
+2007	Computer science	male	31
+2007	Economics	female	1
+2007	Economics	male	13
+2007	Engineering	female	1
+2007	Engineering	male	13
+2007	Geography	male	1
+2007	Geology	female	3
+2007	Geology	male	20
+2007	Materials science	male	7
+2007	Mathematics	male	29
+2007	Medicine	female	10
+2007	Medicine	male	93
+2007	Physics	male	25
+2007	Political science	female	2
+2007	Political science	male	4
+2007	Psychology	female	2
+2007	Psychology	male	11
+2007	Sociology	female	3
+2008	Biology	female	10
+2008	Biology	male	188
+2008	Business	male	5
+2008	Chemistry	male	20
+2008	Computer science	male	34
+2008	Economics	female	1
+2008	Economics	male	15
+2008	Engineering	female	1
+2008	Engineering	male	16
+2008	Geography	male	1
+2008	Geology	female	1
+2008	Geology	male	19
+2008	Materials science	female	1
+2008	Materials science	male	9
+2008	Mathematics	male	31
+2008	Medicine	female	11
+2008	Medicine	male	112
+2008	Physics	male	22
+2008	Political science	female	1
+2008	Political science	male	2
+2008	Psychology	female	2
+2008	Psychology	male	11
+2008	Sociology	female	2
+2009	Biology	female	15
+2009	Biology	male	204
+2009	Business	male	1
+2009	Chemistry	male	20
+2009	Computer science	female	1
+2009	Computer science	male	33
+2009	Economics	female	1
+2009	Economics	male	18
+2009	Engineering	female	1
+2009	Engineering	male	13
+2009	Geography	male	2
+2009	Geology	female	1
+2009	Geology	male	20
+2009	Materials science	female	1
+2009	Materials science	male	7
+2009	Mathematics	male	32
+2009	Medicine	female	12
+2009	Medicine	male	127
+2009	Physics	male	24
+2009	Political science	female	1
+2009	Political science	male	2
+2009	Psychology	female	2
+2009	Psychology	male	14
+2009	Sociology	female	2
+2010	Biology	female	11
+2010	Biology	male	193
+2010	Business	male	1
+2010	Chemistry	male	28
+2010	Computer science	female	4
+2010	Computer science	male	64
+2010	Economics	female	2
+2010	Economics	male	36
+2010	Engineering	female	1
+2010	Engineering	male	12
+2010	Geography	male	2
+2010	Geology	female	2
+2010	Geology	male	17
+2010	Materials science	female	1
+2010	Materials science	male	4
+2010	Mathematics	male	34
+2010	Medicine	female	12
+2010	Medicine	male	141
+2010	Physics	male	27
+2010	Political science	male	2
+2010	Psychology	female	3
+2010	Psychology	male	17
+2010	Sociology	female	2
+2010	Sociology	male	1
+2011	Biology	female	13
+2011	Biology	male	212
+2011	Business	male	1
+2011	Chemistry	female	3
+2011	Chemistry	male	39
+2011	Computer science	female	6
+2011	Computer science	male	62
+2011	Economics	female	3
+2011	Economics	male	40
+2011	Engineering	female	1
+2011	Engineering	male	12
+2011	Geography	male	2
+2011	Geology	female	2
+2011	Geology	male	17
+2011	Materials science	female	1
+2011	Materials science	male	6
+2011	Mathematics	male	30
+2011	Medicine	female	11
+2011	Medicine	male	170
+2011	Physics	male	28
+2011	Political science	female	1
+2011	Political science	male	3
+2011	Psychology	female	19
+2011	Psychology	male	80
+2011	Sociology	female	1
+2011	Sociology	male	2
+2012	Biology	female	29
+2012	Biology	male	253
+2012	Business	male	1
+2012	Chemistry	female	1
+2012	Chemistry	male	64
+2012	Computer science	female	5
+2012	Computer science	male	67
+2012	Economics	female	2
+2012	Economics	male	37
+2012	Engineering	female	1
+2012	Engineering	male	10
+2012	Geography	male	1
+2012	Geology	female	2
+2012	Geology	male	14
+2012	Materials science	female	1
+2012	Materials science	male	9
+2012	Mathematics	male	28
+2012	Medicine	female	22
+2012	Medicine	male	299
+2012	Physics	male	29
+2012	Political science	male	4
+2012	Psychology	female	19
+2012	Psychology	male	82
+2012	Sociology	female	2
+2012	Sociology	male	2
+2013	Biology	female	39
+2013	Biology	male	305
+2013	Business	male	1
+2013	Chemistry	female	1
+2013	Chemistry	male	61
+2013	Computer science	female	2
+2013	Computer science	male	49
+2013	Economics	female	2
+2013	Economics	male	34
+2013	Engineering	female	1
+2013	Engineering	male	9
+2013	Geography	male	1
+2013	Geology	female	2
+2013	Geology	male	9
+2013	Materials science	female	1
+2013	Materials science	male	5
+2013	Mathematics	male	37
+2013	Medicine	female	29
+2013	Medicine	male	294
+2013	Philosophy	male	1
+2013	Physics	male	28
+2013	Political science	female	1
+2013	Political science	male	4
+2013	Psychology	female	17
+2013	Psychology	male	77
+2013	Sociology	female	2
+2013	Sociology	male	2
+2014	Biology	female	16
+2014	Biology	male	195
+2014	Business	male	1
+2014	Chemistry	female	1
+2014	Chemistry	male	36
+2014	Computer science	female	4
+2014	Computer science	male	56
+2014	Economics	female	1
+2014	Economics	male	31
+2014	Engineering	female	1
+2014	Engineering	male	10
+2014	Geology	female	2
+2014	Geology	male	9
+2014	Materials science	female	1
+2014	Materials science	male	6
+2014	Mathematics	male	42
+2014	Medicine	female	21
+2014	Medicine	male	255
+2014	Philosophy	male	2
+2014	Physics	female	1
+2014	Physics	male	30
+2014	Political science	female	1
+2014	Political science	male	3
+2014	Psychology	female	16
+2014	Psychology	male	76
+2014	Sociology	female	3
+2014	Sociology	male	5
+2015	Biology	female	20
+2015	Biology	male	221
+2015	Business	male	1
+2015	Chemistry	female	1
+2015	Chemistry	male	47
+2015	Computer science	female	6
+2015	Computer science	male	80
+2015	Economics	female	12
+2015	Economics	male	65
+2015	Engineering	female	1
+2015	Engineering	male	8
+2015	Geology	female	1
+2015	Geology	male	12
+2015	Materials science	female	1
+2015	Materials science	male	4
+2015	Mathematics	female	1
+2015	Mathematics	male	46
+2015	Medicine	female	30
+2015	Medicine	male	230
+2015	Philosophy	male	1
+2015	Physics	female	1
+2015	Physics	male	28
+2015	Political science	female	1
+2015	Political science	male	4
+2015	Psychology	female	13
+2015	Psychology	male	59
+2015	Sociology	female	2
+2015	Sociology	male	4
+2016	Biology	female	28
+2016	Biology	male	245
+2016	Business	female	1
+2016	Business	male	1
+2016	Chemistry	female	2
+2016	Chemistry	male	46
+2016	Computer science	female	6
+2016	Computer science	male	79
+2016	Economics	female	6
+2016	Economics	male	56
+2016	Engineering	female	1
+2016	Engineering	male	23
+2016	Geology	female	1
+2016	Geology	male	15
+2016	Materials science	female	1
+2016	Materials science	male	4
+2016	Mathematics	female	1
+2016	Mathematics	male	46
+2016	Medicine	female	42
+2016	Medicine	male	264
+2016	Philosophy	male	3
+2016	Physics	male	29
+2016	Political science	female	4
+2016	Political science	male	4
+2016	Psychology	female	12
+2016	Psychology	male	57
+2016	Sociology	female	2
+2016	Sociology	male	5
+2017	Biology	female	36
+2017	Biology	male	267
+2017	Business	male	1
+2017	Chemistry	female	3
+2017	Chemistry	male	50
+2017	Computer science	female	7
+2017	Computer science	male	67
+2017	Economics	female	5
+2017	Economics	male	59
+2017	Engineering	female	1
+2017	Engineering	male	14
+2017	Geology	female	1
+2017	Geology	male	17
+2017	Materials science	female	1
+2017	Materials science	male	4
+2017	Mathematics	female	1
+2017	Mathematics	male	47
+2017	Medicine	female	40
+2017	Medicine	male	244
+2017	Philosophy	female	1
+2017	Philosophy	male	2
+2017	Physics	male	39
+2017	Political science	female	4
+2017	Political science	male	4
+2017	Psychology	female	13
+2017	Psychology	male	61
+2017	Sociology	female	2
+2017	Sociology	male	5
+2018	Biology	female	73
+2018	Biology	male	389
+2018	Business	male	1
+2018	Chemistry	female	5
+2018	Chemistry	male	94
+2018	Computer science	female	9
+2018	Computer science	male	75
+2018	Economics	female	5
+2018	Economics	male	78
+2018	Engineering	female	3
+2018	Engineering	male	31
+2018	Geography	male	1
+2018	Geology	female	1
+2018	Geology	male	16
+2018	History	male	1
+2018	Materials science	female	1
+2018	Materials science	male	11
+2018	Mathematics	female	1
+2018	Mathematics	male	58
+2018	Medicine	female	79
+2018	Medicine	male	259
+2018	Philosophy	female	2
+2018	Philosophy	male	3
+2018	Physics	female	4
+2018	Physics	male	71
+2018	Political science	female	8
+2018	Political science	male	11
+2018	Psychology	female	57
+2018	Psychology	male	147
+2018	Sociology	female	2
+2018	Sociology	male	4
+2019	Biology	female	100
+2019	Biology	male	405
+2019	Business	male	2
+2019	Chemistry	female	5
+2019	Chemistry	male	91
+2019	Computer science	female	4
+2019	Computer science	male	43
+2019	Economics	female	8
+2019	Economics	male	49
+2019	Engineering	female	3
+2019	Engineering	male	29
+2019	Geography	male	2
+2019	Geology	female	1
+2019	Geology	male	16
+2019	History	male	1
+2019	Materials science	female	1
+2019	Materials science	male	12
+2019	Mathematics	female	1
+2019	Mathematics	male	48
+2019	Medicine	female	66
+2019	Medicine	male	227
+2019	Philosophy	female	2
+2019	Philosophy	male	3
+2019	Physics	female	2
+2019	Physics	male	67
+2019	Political science	female	10
+2019	Political science	male	16
+2019	Psychology	female	63
+2019	Psychology	male	145
