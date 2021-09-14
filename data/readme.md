@@ -251,6 +251,8 @@ Then, we use a randomized baseline model that randomly replaces editors (or EICs
     - gender: male or female
     - Field: discpiline
     - length: length of editorship in years
+    
+- `figure_4/Fields.csv`: the list of fields sorted alphabetically.
 
 - `figure_4/randomBaseline/Editors.csv`: each row represents an editor.
     - gender: the gender of this editor
