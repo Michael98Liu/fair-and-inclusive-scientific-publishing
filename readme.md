@@ -39,7 +39,10 @@ Python libraries:
 - numpy 1.19.2
 - scipy 1.5.2
 - matplotlib 3.3.2
-- sklearn 0.24.2
+- scikit-learn 0.24.2
 - pycountry 20.7.3
 - fuzzywuzzy 0.18.0
-- bs4 4.9.3
+- beautifulsoup4 4.9.3
+- Unidecode 1.3.1
+
+Install all libraries with `pip`: `pip install -r requirements.txt`.
