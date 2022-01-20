@@ -25,7 +25,7 @@ The code to anonymize the actual data is shared for transparency, but this code 
 
 ## Reproducing results
 In order to reproduce our results, the following is needed:
-1. A subscription to Elsevier
+1. A subscription to Elsevier;
 2. Formal permission from Elsevier before proceeding with any form of data collection (see our letter of terms and agreement from Elsevier).
 
 ## System requirements
@@ -37,7 +37,7 @@ The project was created and executed on the NYU High Performance Computing (HPC)
 Python libraries:
 - pandas 1.2.0
 - numpy 1.19.2
-- scipy 1.5.2
+- scipy 1.7.4
 - matplotlib 3.3.2
 - scikit-learn 0.24.2
 - pycountry 20.7.3
