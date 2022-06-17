@@ -1,4 +1,4 @@
-# Traces of editors impeding a fair and inclusive scientific publishing
+# Gender inequality and self-publication patterns among scientific editors
 
 As per our agreement with Elsevier, the anonymity of the editors and journals included in our analysis should be preserved (see the file "NYU Abu Dhabi Elsevier Agreement"). As such, we cannot share the full dataset analyzed in the manuscript. We are nonetheless willing to share the code we used to collect and analyze data, along with a step-by-step guide focusing on an arbitrary journal as an example. Additionally, we include the data (anonymized) and code necessary to reproduce the figures.
 
