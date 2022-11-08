@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1744117X1500043X</prism:url><dc:identifier>doi:10.1016/S1744-117X(15)00043-X</dc:identifier><eid>1-s2.0-S1744117X1500043X</eid><prism:doi>10.1016/S1744-117X(15)00043-X</prism:doi><pii>S1744-117X(15)00043-X</pii><dc:title>Editorial Board </dc:title><prism:publicationName>Comparative Biochemistry and Physiology Part D: Genomics and Proteomics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edb</pubType><prism:issn>1744117X</prism:issn><prism:volume>15</prism:volume><prism:startingPage>IFC</prism:startingPage><prism:pageRange>IFC</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2015-09-30</prism:coverDate><prism:coverDisplayDate>September 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2013  Published by Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S1744117X1500043X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1744117X1500043X" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273478</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291733</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="subj">291856</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Comparative Biochemistry and Physiology Part D: Genomics and Proteomics</xocs:srctitle>
+      <xocs:normalized-srctitle>COMPARATIVEBIOCHEMISTRYPHYSIOLOGYPARTDGENOMICSPROTEOMICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150702">2015-07-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150702">2015-07-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150702">2015-07-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150702">2015-07-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-07-01T11:37:15</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1744117X1500043X</xocs:eid>
+      <xocs:pii-formatted>S1744-117X(15)00043-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1744117X1500043X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S1744-117X(15)00043-X</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>CONTENTS-ENTRY-ONLY</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1744117X15X00037</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160903">2016-09-03T22:56:45.225863-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150901</xocs:date-search-begin>
+      <xocs:date-search-end>20150930</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1435822348">2015-07-02T07:32:28.430905Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav articletitle</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1744-117X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>1744117X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>15</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>15</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 15</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>IFC</xocs:first-fp>
+      <xocs:pages>
+         <xocs:first-page>IFC</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201509</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edb</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013  Published by Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EDITORIALBOARD</xocs:normalized-article-title>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2016-07-02T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>Open</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1744-117X(15)00043-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1744117X1500043X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1744117X1500043X</xocs:eid>
+         <xocs:doi>10.1016/S1744-117X(15)00043-X</xocs:doi>
+         <xocs:cid>273478</xocs:cid>
+         <xocs:timestamp>2015-07-02T02:32:28.430905-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1744117X1500043X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1744117X1500043X/MAIN/application/pdf/6912fd69a4cf9072d2d84bb483c9d4ac/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1744117X1500043X/MAIN/application/pdf/6912fd69a4cf9072d2d84bb483c9d4ac/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>30205</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1744117X1500043X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1744117X1500043X/PREVIEW/image/png/8d72e9212746224ffe4c24700a615f70/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1744117X1500043X/PREVIEW/image/png/8d72e9212746224ffe4c24700a615f70/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68394</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Editor-in-Chief M. Rise Memorial University of Newfoundland, Newfoundland and Labrador, Canada Emeritus Editor-in-Chief T.P. Mommsen University of Victoria, Victoria, BC, Canada Associate Editors Editorial Board J. Altimiras Linkoping University, Sweden G. Anderson University of Manitoba, Winnipeg, Manitoba, Canada N.J. Bernier University of Guelph, Guelph, ON, Canada D. Buchwalter North Carolina State University, Raleigh, NC, USA P. Else University of Wollongong, Wollongong, NSW, Australia E. Fabbri UniversitÃ  di Bologna, Ravenna, Italy P. Fields Franklin and Marshall College, Lancaster PA, USA C. Martyniuk College of Veterinary Medicine University of Florida, Gainesville, FL, USA D.L. Mykles Colorado State University, Fort Collins, CO, USA H.A. Shiels University of Manchester, Manchester, UK  A. Viarengo UniversitÃ  degli Studi del Piemonte Orientale,  Alessandria, Italy B.M. Barnes, University of Alaska Fairbanks, Fairbanks, AK, USA M. Berenbrink, University of Liverpool, Liverpool, UK F. Bozinovic, Pontificia Universidad  CatÃ³lica de Chile, Santiago, Chile K. Brix, University of British Columbia, Vancouver, BC, Canada L.T. Buck, University of Toronto,  Toronto ON, Canada C. Bucking, York University, Toronto,  Canada B. Buckley, York University, Toronto,  Canada K.G. Burnett, College of Charleston,  Charleston, SC, USA L.E. Burnett, Grice Marine Laboratory, Charleston, SC, USA N.R. Bury, Kingâ€™s College London,  London, UK K. Campbell, University of Manitoba, Winnipeg, MB, Canada J.M. Conlon, United Arab Emirates  University, Al-Ain, United Arab  Emirates C. Cooper, Curtin University, Perth,  Western Australia, Australia P. Craig, University of Waterloo,  Canada D. Crossley, University of North  Texas, Denton, TX, USA S. Currie, Mount Allison University,  Sackville, NB, Canada  S.L. Edwards, Appalachian State  University, Boone, NC, USA F. Geiser, University of New England, Armidale, NSW, Australia D. German, University of California  at Irvine, Irvine, CA, USA T. Gillis, University of Guelph,  Guelph, Canada K.M. Gilmour, University of Ottawa,  Ottawa, ON, Canada C.N. Glover, University of Canterbury, Christchurch, New Zealand K. Greenlee, North Dakota State  University, Fargo, ND, USA H. Guderley, UniversitÃ© Laval,  QuÃ©bec, QC, Canada R.P. Henry, Auburn University,  Auburn, AL, USA M. Hermes-Lima, Universidade de  Brasilia, Brasilia, Brazil J.W. Hicks, University of California  at Irvine, Irvine, CA, USA P.P. Hwang, Academia Sinica,  Nankang, Taiwan Alex Y.K. Ip, National University of  Singapore, Singapore, Singapore C.J. Kennedy, Simon Fraser University, Burnaby, BC, Canada G. Krumschnabel, Medizinische  UniversitÃ¤t Innsbruck, Innsbruck,  Austria V. Langlois, Royal Military College,  Kingston, ON, Canada G.H. Laverty, University of Delaware, Newark, DE, USA J.-S. Lee, Department of Biological  Sciences, College of Science,  Sungkyunkwan University, Suwon  440-746, South Korea H.B. Lillywhite, University of Florida, Gainesville, FL, USA S. Linton, Deakin University,  Geelong, Australia V.I. Lushchak, Precarpathian National University, Ivano-Frankivsk, Ukraine T. MacCormack, Mount Allison  University, Sackville, NB, Canada D.L. MacLatchy, Wilfrid Laurier  University, Waterloo, ON, Canada G.B. McClelland, McMaster University, Hamilton, Canada M.D. McDonald, University of Miami, Miami, FL, USA C.A. Navas, Universidade de SÃ£o Paulo, SÃ£o Paulo, Brazil K.M. Oâ€™Brien, University of Alaska,  Fairbanks, AK, USA B. Pinshow, Ben Gurion University  of the Negev, Beer Sheva, Israel J.E. Podrabsky, Portland State  University, Oregon, OR, USA H.-O. PÃ¶rtner, Alfred Wegener Institute for Polar and Marine Research,  Bremerhaven, Germany G. Pyle, University of Lethbridge,  Lethbridge, AB, Canada J. Richards, University of British  Columbia, Vancouver, BC, Canada M. Rise, Memorial University of  Newfoundland, St. Johnâ€™s, NL, Canada A. Roberts, University North Texas,  Denton, TX, USA M. Robertson, Queenâ€™s University,  Kingston, ON, Canada P.J. Schwarzbaum, Universidad de Buenos Aires, Buenos Aires, Argentina G. Scott, McMaster University,  Hamilton, ON, Canada F. Seebacher, University of Sydney,  Sydney, NSW, Australia H. Segner, UniversitÃ¤t Bern, Bern,  Switzerland P. Schulte, University of British  Columbia, Vancouver, BC, Canada T. Serebrovskaya, Bogomoletz Institute  of Physiology, Kiev, Ukraine K.A. Sloman, University of West of Scotland, Paisley, UK B.C. Small, U.S. Dept of Agriculture,  Agricultural Research Service,  Beltsville, MD, USA J.E.G. Smits, University of Calgary,  AB, Canada I. Sokolova, University of N. Carolina Charlotte, Charlotte, NC, USA G.N. Somero, Stanford University,  Pacific Grove, CA, USA J. Staples, University of Western  Ontario, London, ON, Canada T. Suzuki, Kochi University, Kochi, Japan Y. Takei, University of Tokyo,  Chiba, Japan A. Takemura, University of the  Ryukyus, Okinawa, Japan G. vd Kraak, University of Guelph,  Guelph, ON, Canada V. Vieira, University of St. Andrews,  St. Andrews, UK M.M. Vijayan, University of Calgary, Calgary, AB, Canada S.Q. Wang, Peking University,  Beijing, China T. Wang, Aarhus University, Aarhus, Denmark D. Warren, St. Louis University, St.  Louis, MO, USA S. Watabe, Kitasato University,  Tokyo, Japan A. Whitehead, University of California, Davis, Davis, CA, USA P.C. Withers, University of Western  Australia, Crawley, WA, Australia T. Zenteno-SavÃ­n, Centro de  Investigaciones Biologicas del  Noroeste, S.C. (CIBNOR), Playa Palo Santa Rita, La Paz,  Baja California Sur, Mexico  K. Campbell, University of Manitoba, Winnipeg, MB, Canada J.M. Conlon, United Arab Emirates  University, Al-Ain, United Arab  Emirates C. Cooper, Curtin University, Perth,  Western Australia, Australia P. Craig, University of Waterloo,  Canada D. Crossley, University of North  Texas, Denton, TX, USA S. Currie, Mount Allison University,  Sackville, NB, Canada  S.L. Edwards, Appalachian State  University, Boone, NC, USA F. Geiser, University of New England, Armidale, NSW, Australia D. German, University of California  at Irvine, Irvine, CA, USA T. Gillis, University of Guelph,  Guelph, Canada K.M. Gilmour, University of Ottawa,  Ottawa, ON, Canada C.N. Glover, University of Canterbury, Christchurch, New Zealand K. Greenlee, North Dakota State  University, Fargo, ND, USA H. Guderley, UniversitÃ© Laval,  QuÃ©bec, QC, Canada R.P. Henry, Auburn University,  Auburn, AL, USA M. Hermes-Lima, Universidade de  Brasilia, Brasilia, Brazil J.W. Hicks, University of California  at Irvine, Irvine, CA, USA P.P. Hwang, Academia Sinica,  Nankang, Taiwan Alex Y.K. Ip, National University of  Singapore, Singapore, Singapore C.J. Kennedy, Simon Fraser University, Burnaby, BC, Canada G. Krumschnabel, Medizinische  UniversitÃ¤t Innsbruck, Innsbruck,  Austria V. Langlois, Royal Military College,  Kingston, ON, Canada G.H. Laverty, University of Delaware, Newark, DE, USA J.-S. Lee, Department of Biological  Sciences, College of Science,  Sungkyunkwan University, Suwon  440-746, South Korea H.B. Lillywhite, University of Florida, Gainesville, FL, USA S. Linton, Deakin University,  Geelong, Australia V.I. Lushchak, Precarpathian National University, Ivano-Frankivsk, Ukraine T. MacCormack, Mount Allison  University, Sackville, NB, Canada D.L. MacLatchy, Wilfrid Laurier  University, Waterloo, ON, Canada G.B. McClelland, McMaster University, Hamilton, Canada M.D. McDonald, University of Miami, Miami, FL, USA C.A. Navas, Universidade de SÃ£o Paulo, SÃ£o Paulo, Brazil K.M. Oâ€™Brien, University of Alaska,  Fairbanks, AK, USA B. Pinshow, Ben Gurion University  of the Negev, Beer Sheva, Israel J.E. Podrabsky, Portland State  University, Oregon, OR, USA H.-O. PÃ¶rtner, Alfred Wegener Institute for Polar and Marine Research,  Bremerhaven, Germany G. Pyle, University of Lethbridge,  Lethbridge, AB, Canada J. Richards, University of British  Columbia, Vancouver, BC, Canada M. Rise, Memorial University of  Newfoundland, St. Johnâ€™s, NL, Canada A. Roberts, University North Texas,  Denton, TX, USA M. Robertson, Queenâ€™s University,  Kingston, ON, Canada P.J. Schwarzbaum, Universidad de Buenos Aires, Buenos Aires, Argentina G. Scott, Mc</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" docsubtype="edb" xml:lang="en">
+         <item-info>
+            <jid>CBD</jid>
+            <aid>80000485</aid>
+            <ce:pii>S1744-117X(15)00043-X</ce:pii>
+            <ce:doi>10.1016/S1744-117X(15)00043-X</ce:doi>
+            <ce:copyright type="other" year="2013"/>
+         </item-info>
+         <simple-head>
+            <ce:title id="ti0005">Editorial Board</ce:title>
+         </simple-head>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
