@@ -1,4 +1,4 @@
-# Gender inequality and self-publication patterns among scientific editors
+# Gender inequality and self-publication are common among academic editors
 
 [![DOI](https://zenodo.org/badge/406294400.svg)](https://zenodo.org/badge/latestdoi/406294400)
 
